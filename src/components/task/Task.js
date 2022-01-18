@@ -1,6 +1,5 @@
 import axios from "axios";
-import React from "react";
-import { useEffect, useState } from "react/cjs/react.development";
+import React, { useState, useEffect } from "react";
 
 function Task() {
   const [posts, setPosts] = useState([]);
