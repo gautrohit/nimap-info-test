@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nimap-info-test/static/css/main.c20e7b97.css",
-    "main.js": "/nimap-info-test/static/js/main.7bcefc49.js",
+    "main.js": "/nimap-info-test/static/js/main.3b8640aa.js",
     "static/js/787.a54a301c.chunk.js": "/nimap-info-test/static/js/787.a54a301c.chunk.js",
     "index.html": "/nimap-info-test/index.html",
     "main.c20e7b97.css.map": "/nimap-info-test/static/css/main.c20e7b97.css.map",
-    "main.7bcefc49.js.map": "/nimap-info-test/static/js/main.7bcefc49.js.map",
+    "main.3b8640aa.js.map": "/nimap-info-test/static/js/main.3b8640aa.js.map",
     "787.a54a301c.chunk.js.map": "/nimap-info-test/static/js/787.a54a301c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c20e7b97.css",
-    "static/js/main.7bcefc49.js"
+    "static/js/main.3b8640aa.js"
   ]
 }
