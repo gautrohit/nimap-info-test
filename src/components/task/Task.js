@@ -24,12 +24,12 @@ function Task() {
 
   useEffect(() => {
     axios
-      .get(`${API_DATA}`)
+      .get(`http://jsonplaceholder.typicode.com/todos`)
       .then((res) => {
         setPosts(res.data);
       })
       .catch((err) => {
-        console.log(err);
+        console.log("My error>>>>>>>>>>>" + err);
       });
   }, []);
 
